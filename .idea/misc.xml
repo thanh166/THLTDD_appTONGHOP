@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/vien.xml" value="0.2085" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.21784420289855072" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_singin.xml" value="0.25" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_test.xml" value="0.21164021164021163" />
+        <entry key="..\:/Singin_Singup_Profile/app/src/main/res/layout/activity_bun_bo.xml" value="0.25" />
+        <entry key="..\:/Singin_Singup_Profile/app/src/main/res/layout/activity_home.xml" value="0.264" />
+        <entry key="..\:/Singin_Singup_Profile/app/src/main/res/layout/activity_list_view.xml" value="0.25" />
+        <entry key="..\:/Singin_Singup_Profile/app/src/main/res/layout/activity_listview.xml" value="0.25" />
+        <entry key="..\:/Singin_Singup_Profile/app/src/main/res/layout/activity_listviewmonan.xml" value="0.25" />
+        <entry key="..\:/Singin_Singup_Profile/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Singin_Singup_Profile/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/Singin_Singup_Profile/app/src/main/res/layout/activity_singin.xml" value="0.264" />
+        <entry key="..\:/Singin_Singup_Profile/app/src/main/res/layout/layout_monan.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.264" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
